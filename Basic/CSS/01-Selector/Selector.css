@@ -1,0 +1,49 @@
+p {
+    color: red;
+}
+
+.class-selector1 {
+    color: green;
+}
+
+#id-selector1 {
+    color: blue;
+}
+
+* {
+    font-size: 20px;
+}
+
+.selector4 span {
+    color: orange;
+}
+
+.selector5 > span {
+    color: yellow;
+}
+
+.selector6,
+.selector7 {
+    color: purple;
+}
+
+.selector8:link {
+    color: aqua;
+    text-decoration: overline;
+}
+
+.selector8:visited {
+    color: cornflowerblue;
+}
+
+.selector8:hover {
+    color: bisque;
+}
+
+.selector8:active {
+    color: black;
+}
+
+.selector9:focus{
+    color: brown;
+}
