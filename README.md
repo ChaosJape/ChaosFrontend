@@ -1,2 +1,2 @@
 # ChaosFrontend
-A repo of some frontend templates.
+It's a repo of a frontend application.
