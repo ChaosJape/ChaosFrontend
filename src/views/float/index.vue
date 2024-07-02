@@ -1,11 +1,10 @@
-<script setup>
-
-</script>
-
 <template>
-
+  <div class="iframe-container">
+    <iframe class="embedded-page" src="/Basic/CSS/05-Float/index.html"></iframe>
+  </div>
 </template>
 
-<style scoped>
+<script setup>
+</script>
 
-</style>
+<style scoped src="@/assets/css/embedded-page-common.css"></style>
